@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Carlos S. Oliveira Jr<br><br>From Brazil, <br>Professional in career transition, looking for opportunities in the Technology area as a Programmer, Software Developer or related positions.<br><br>I have been using GitHub only for study projects, programming practice and improving skills.<br>Focused on:<br>- Java<br>- Spring Boot<br>- Database<br>- BackEnd</p>
+<p align="left">Carlos S. Oliveira Jr<br><br>From Brazil, <br>I've been developing in Java for over a year, exploring tools like the Spring Framework, PostgreSQL, MySQL, and Firebird databases. For REST APIs, I've been using Postman to test endpoints, and for user authentication, JWT. Recently, I've been dividing my learning time between REST APIs for the web, testing Docker containers, and developing graphical interfaces using JAVAFX for desktop applications.<br><br>Focused on:<br>- Java<br>- Spring Boot<br>- PostgreSQL and other databases<br>- Back-End Development</p>
 
 ###
 
